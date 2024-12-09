@@ -42,6 +42,17 @@ ToBuildGift integrates creative design and smart tools to provide users with an 
    git clone https://github.com/ToBuildGift/tobuildgift.git
    cd tobuildgift
 
+## 📚 Documentation & Support
+
+- [User Guide](https://www.tobuildgift.com)  
+- [Developer Guide](https://www.tobuildgift.com)  
+- [GitHub Issues](https://github.com/ToBuildGift/tobuildgift/issues) to report bugs or suggest features
+- 
+## 📬 Contact Us
+
+- **Official Website**: [tobuildgift.com](https://www.tobuildgift.com)  
+- **X Account**: [@ToBuildGift](https://x.com/ToBuildGift)
+
 <!--
 **ToBuildGift/tobuildgift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
