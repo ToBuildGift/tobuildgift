@@ -1,4 +1,3 @@
-## Hi there 👋
 # ToBuildGift 🎁  
 > **Create Custom Gifts, Deliver Unique Thoughts**
 
